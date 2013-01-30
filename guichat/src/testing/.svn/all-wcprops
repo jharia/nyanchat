@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/6.005/sp12/!svn/ver/40111/groups/guichat/anvishap-gwohl-jesika/src/testing
+END
+TestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/6.005/sp12/!svn/ver/38266/groups/guichat/anvishap-gwohl-jesika/src/testing/TestClient.java
+END
+TestControllerGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/6.005/sp12/!svn/ver/38209/groups/guichat/anvishap-gwohl-jesika/src/testing/TestControllerGUI.java
+END
+StartConversationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/6.005/sp12/!svn/ver/38266/groups/guichat/anvishap-gwohl-jesika/src/testing/StartConversationTest.java
+END
+SignInTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/6.005/sp12/!svn/ver/38266/groups/guichat/anvishap-gwohl-jesika/src/testing/SignInTest.java
+END
+SendMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/6.005/sp12/!svn/ver/38271/groups/guichat/anvishap-gwohl-jesika/src/testing/SendMessageTest.java
+END
